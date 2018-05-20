@@ -12,8 +12,8 @@ by scoping to the box that we think explains the change.
 ## Input
 
 In order to do that, we have 2 signals that we can use:
-- the boxes of what's represented on screen: e.g. [before/boxes.xml]().
-- the screenshot: e.g. [before/screenshot.png]().
+- the boxes of what's represented on screen: e.g. [before/boxes.xml](https://github.com/waldoapp/cv-challenge/blob/master/before/boxes.xml).
+- the screenshot: e.g. [before/screenshot.png](https://github.com/waldoapp/cv-challenge/blob/master/before/screenshot.png).
 
 These 2 signals are extracted from the mobile device at the same time, and therefore correspond
 to the same state.
