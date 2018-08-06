@@ -9,6 +9,14 @@ boxes that they correspond to.
 In other words, we use the pixels to understand that something changed on screen, but we report
 by scoping to the box that we think explains the change.
 
+## Submit
+
+Please add @laurentsigal or @VincentJaouen as a contributor to your github repository.
+
+Otherwise you can simply host the code anywhere and give us a link to the zip file.
+
+Do not make your repository public.
+
 ## Input
 
 In order to do that, we have 2 signals that we can use:
