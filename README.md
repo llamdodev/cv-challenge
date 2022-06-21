@@ -1,49 +1,42 @@
 # Computer Vision Challenge
 
-This challenge offers a view into one of the challenges that we face at Waldo.
-
-The goal that we are pursuing ultimately is to show *meaningful* differences in how screens change
-over time in a given mobile application. AND we want to map these visual changes to the underlying
-boxes that they correspond to.
-
-In other words, we use the pixels to understand that something changed on screen, but we report
-by scoping to the box that we think explains the change.
+This challenge offers a good insight into one of the core problems we solve at Waldo: how to
+match together the visual representation of a screen and its view hierarchy.
 
 ## Submit
 
-Please add [@laurentsigal](https://github.com/laurentsigal) as a contributor to your github repository.
-
-Otherwise you can simply host the code anywhere and give us a link to the zip file.
-
-Do not make your repository public.
+Please zip your work once it's complete and send it to developers@waldo.com.
 
 ## Input
 
-In order to do that, we have 2 signals that we can use:
-- the boxes of what's represented on screen: e.g. [before/boxes.xml](https://github.com/waldoapp/cv-challenge/blob/master/before/boxes.xml).
-- the screenshot: e.g. [before/screenshot.png](https://github.com/waldoapp/cv-challenge/blob/master/before/screenshot.png).
+In `/samples`, you will find a list of pairs `${name}.json` and `${name}.jpg`. They are the 2
+representations for the same screen `${name}`.
 
-These 2 signals are extracted from the mobile device at the same time, and therefore correspond
-to the same state.
+The view hierarchy file follows a fairly straightforward structure. The important thing to note is
+that nodes are flattened, but in fact they represent a tree structure. You can easily get the tree
+structure by looking at parentIndex and index.
 
 ## Goals
 
-In this challenge, you are given the 2 states of the same screen, extracted from 2
-versions of the same application that are approximately 6 months apart, denoted by
-`before` and `after`.
+The goal is to answer this philosophical question: "if I look at coordinates x, y, what box is
+actually responsible for the pixel there".
 
-Objectives:
-- Match every pixel to a box. For instance, it should be recognized that the background is
-covering the whole screen, and therefore not attributed in pieces to the smaller boxes
-covering the area
-- Explain the visual differences between the 2 screenshots using this high level
-abstraction of boxes. For instance, the change for the field `email` should be decomposed into
-the fact that the text was translated down (attributed to the corresponding box) while the
-background did not change.
+We consider these 2 rendering rules:
+- nodes are rendered from bottom to top. the last node declared is on top of all the other ones
+- a node is either rendered or not. Partial transparency is not considered transparency. So if a
+text view renders some text without any background, we still consider that it's "responsible" for
+the whole area of its bounding box.
 
-What we are looking for:
-- the ideas and implementation that you used. We believe this should not be a lot of code
-if you leverage all the existing libraries that are at your disposal.
-- the ability to break down the problem into the 2 pieces, i.e. if the solution would be able
-to match pixels to boxes even if given a single version of the screen.
-- the structure that you will use to scope and report these differences.
+Internally at Waldo, we have built a tool that allows to get the view hierarchy representation on
+top of the visual representation of a screen, following the 2 above rules.
+
+You can see the representation if we consider that the nodes from `screen-1` are in the right
+order, and that all nodes are rendered (i.e. none are considered transparent):
+![all nodes are considered to be rendered](https://user-images.githubusercontent.com/10992081/174875334-5df2a0de-4b05-4391-9a47-c1fcc692da36.png)
+
+And now, the representation if we tag 2 nodes as transparent:
+![all nodes are considered to be rendered](https://user-images.githubusercontent.com/10992081/174875335-008dc485-4d33-41d0-8541-895def1a62fb.png)
+
+The goal of this challenge is to tag / reorder / prune nodes from the view hierarchy
+programmatically so that the representation of the nodes after processing is consistent with the
+visual representation.

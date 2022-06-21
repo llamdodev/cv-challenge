@@ -1,0 +1,1690 @@
+{
+  "viewport": {
+    "width": 750,
+    "height": 1334
+  },
+  "osType": "ios",
+  "windows": [
+    {
+      "type": "window.main",
+      "box": {
+        "left": 0,
+        "top": 40,
+        "width": 750,
+        "height": 774
+      },
+      "nodes": [
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 774
+          },
+          "index": 1,
+          "parentIndex": -1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 774
+          },
+          "index": 2,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "table",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 774
+          },
+          "index": 3,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": "Google Search",
+          "text": "Google Search",
+          "box": {
+            "left": 0,
+            "top": 140,
+            "width": 750,
+            "height": 56
+          },
+          "index": 4,
+          "parentIndex": 3,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "cell",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 196,
+            "width": 750,
+            "height": 88
+          },
+          "index": 5,
+          "parentIndex": 3,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "magnifyingglass",
+          "box": {
+            "left": 41,
+            "top": 222,
+            "width": 40,
+            "height": 36
+          },
+          "index": 6,
+          "parentIndex": 5,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 30,
+            "top": 283,
+            "width": 720,
+            "height": 1
+          },
+          "index": 7,
+          "parentIndex": 5,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "hello",
+          "box": {
+            "left": 106,
+            "top": 196,
+            "width": 611,
+            "height": 88
+          },
+          "index": 8,
+          "parentIndex": 5,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "cell",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 284,
+            "width": 750,
+            "height": 88
+          },
+          "index": 9,
+          "parentIndex": 3,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "magnifyingglass",
+          "box": {
+            "left": 41,
+            "top": 310,
+            "width": 40,
+            "height": 36
+          },
+          "index": 10,
+          "parentIndex": 9,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 30,
+            "top": 371,
+            "width": 720,
+            "height": 1
+          },
+          "index": 11,
+          "parentIndex": 9,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "hellofresh",
+          "box": {
+            "left": 106,
+            "top": 284,
+            "width": 547,
+            "height": 88
+          },
+          "index": 12,
+          "parentIndex": 9,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "arrow.up.left.circle",
+          "box": {
+            "left": 674,
+            "top": 309,
+            "width": 40,
+            "height": 38
+          },
+          "index": 13,
+          "parentIndex": 9,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "cell",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 372,
+            "width": 750,
+            "height": 88
+          },
+          "index": 14,
+          "parentIndex": 3,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "magnifyingglass",
+          "box": {
+            "left": 41,
+            "top": 398,
+            "width": 40,
+            "height": 36
+          },
+          "index": 15,
+          "parentIndex": 14,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 30,
+            "top": 459,
+            "width": 720,
+            "height": 1
+          },
+          "index": 16,
+          "parentIndex": 14,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "hello molly",
+          "box": {
+            "left": 106,
+            "top": 372,
+            "width": 547,
+            "height": 88
+          },
+          "index": 17,
+          "parentIndex": 14,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "arrow.up.left.circle",
+          "box": {
+            "left": 674,
+            "top": 397,
+            "width": 40,
+            "height": 38
+          },
+          "index": 18,
+          "parentIndex": 14,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "cell",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 460,
+            "width": 750,
+            "height": 88
+          },
+          "index": 19,
+          "parentIndex": 3,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "magnifyingglass",
+          "box": {
+            "left": 41,
+            "top": 486,
+            "width": 40,
+            "height": 36
+          },
+          "index": 20,
+          "parentIndex": 19,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 30,
+            "top": 547,
+            "width": 720,
+            "height": 1
+          },
+          "index": 21,
+          "parentIndex": 19,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "hello kitty",
+          "box": {
+            "left": 106,
+            "top": 460,
+            "width": 547,
+            "height": 88
+          },
+          "index": 22,
+          "parentIndex": 19,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "image",
+          "id": null,
+          "accessibilityId": null,
+          "text": "arrow.up.left.circle",
+          "box": {
+            "left": 674,
+            "top": 485,
+            "width": 40,
+            "height": 38
+          },
+          "index": 23,
+          "parentIndex": 19,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": "TopBrowserBar",
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 100
+          },
+          "index": 24,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 100
+          },
+          "index": 25,
+          "parentIndex": 24,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "button",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Show Toolbar",
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 101
+          },
+          "index": 26,
+          "parentIndex": 24,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 100
+          },
+          "index": 27,
+          "parentIndex": 24,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "textField",
+          "id": null,
+          "accessibilityId": "URL",
+          "text": "hello",
+          "box": {
+            "left": 33,
+            "top": 48,
+            "width": 549,
+            "height": 72
+          },
+          "index": 28,
+          "parentIndex": 27,
+          "focused": true,
+          "editable": true
+        },
+        {
+          "type": "button",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Clear text",
+          "box": {
+            "left": 535,
+            "top": 66,
+            "width": 38,
+            "height": 38
+          },
+          "index": 29,
+          "parentIndex": 28,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "button",
+          "id": null,
+          "accessibilityId": "NavigationBarCancelButton",
+          "text": "Cancel",
+          "box": {
+            "left": 610,
+            "top": 48,
+            "width": 112,
+            "height": 72
+          },
+          "index": 30,
+          "parentIndex": 27,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Cancel",
+          "box": {
+            "left": 610,
+            "top": 62,
+            "width": 112,
+            "height": 44
+          },
+          "index": 31,
+          "parentIndex": 30,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 140,
+            "width": 750,
+            "height": 1
+          },
+          "index": 32,
+          "parentIndex": 24,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 774
+          },
+          "index": 33,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 40,
+            "width": 750,
+            "height": 774
+          },
+          "index": 34,
+          "parentIndex": 33,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "menu",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 20,
+            "top": 102,
+            "width": 340,
+            "height": 122
+          },
+          "index": 35,
+          "parentIndex": 33,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 20,
+            "top": 102,
+            "width": 340,
+            "height": 122
+          },
+          "index": 36,
+          "parentIndex": 35,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 20,
+            "top": 132,
+            "width": 340,
+            "height": 74
+          },
+          "index": 37,
+          "parentIndex": 35,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "menuItem",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Select",
+          "box": {
+            "left": 20,
+            "top": 132,
+            "width": 150,
+            "height": 74
+          },
+          "index": 38,
+          "parentIndex": 37,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Select",
+          "box": {
+            "left": 51,
+            "top": 152,
+            "width": 90,
+            "height": 34
+          },
+          "index": 39,
+          "parentIndex": 38,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 169,
+            "top": 132,
+            "width": 1,
+            "height": 74
+          },
+          "index": 40,
+          "parentIndex": 37,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "menuItem",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Select All",
+          "box": {
+            "left": 170,
+            "top": 132,
+            "width": 190,
+            "height": 74
+          },
+          "index": 41,
+          "parentIndex": 37,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Select All",
+          "box": {
+            "left": 200,
+            "top": 152,
+            "width": 130,
+            "height": 34
+          },
+          "index": 42,
+          "parentIndex": 41,
+          "focused": false,
+          "editable": false
+        }
+      ]
+    },
+    {
+      "type": "window.keyboard",
+      "box": {
+        "left": 0,
+        "top": 814,
+        "width": 750,
+        "height": 520
+      },
+      "nodes": [
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 814,
+            "width": 750,
+            "height": 520
+          },
+          "index": 1,
+          "parentIndex": -1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "collectionView",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 814,
+            "width": 750,
+            "height": 432
+          },
+          "index": 2,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "FREQUENTLY USED",
+          "box": {
+            "left": 24,
+            "top": 814,
+            "width": 232,
+            "height": 60
+          },
+          "index": 3,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "SMILEYS & PEOPLE",
+          "box": {
+            "left": 604,
+            "top": 814,
+            "width": 146,
+            "height": 60
+          },
+          "index": 4,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😂",
+          "box": {
+            "left": 20,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 5,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "☺️",
+          "box": {
+            "left": 112,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 6,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "💕",
+          "box": {
+            "left": 204,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 7,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "👍",
+          "box": {
+            "left": 296,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 8,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "🙈",
+          "box": {
+            "left": 388,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 9,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😴",
+          "box": {
+            "left": 480,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 10,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😀",
+          "box": {
+            "left": 600,
+            "top": 874,
+            "width": 64,
+            "height": 64
+          },
+          "index": 11,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😅",
+          "box": {
+            "left": 692,
+            "top": 874,
+            "width": 58,
+            "height": 64
+          },
+          "index": 12,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "❤️",
+          "box": {
+            "left": 20,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 13,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😊",
+          "box": {
+            "left": 112,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 14,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😔",
+          "box": {
+            "left": 204,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 15,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "✌️",
+          "box": {
+            "left": 296,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 16,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😎",
+          "box": {
+            "left": 388,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 17,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😄",
+          "box": {
+            "left": 480,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 18,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😃",
+          "box": {
+            "left": 600,
+            "top": 951,
+            "width": 64,
+            "height": 64
+          },
+          "index": 19,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😂",
+          "box": {
+            "left": 692,
+            "top": 951,
+            "width": 58,
+            "height": 64
+          },
+          "index": 20,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😍",
+          "box": {
+            "left": 20,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 21,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😘",
+          "box": {
+            "left": 112,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 22,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😏",
+          "box": {
+            "left": 204,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 23,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😉",
+          "box": {
+            "left": 296,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 24,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "🎶",
+          "box": {
+            "left": 388,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 25,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😜",
+          "box": {
+            "left": 480,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 26,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😄",
+          "box": {
+            "left": 600,
+            "top": 1028,
+            "width": 64,
+            "height": 64
+          },
+          "index": 27,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "🤣",
+          "box": {
+            "left": 692,
+            "top": 1028,
+            "width": 58,
+            "height": 64
+          },
+          "index": 28,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😒",
+          "box": {
+            "left": 20,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 29,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😭",
+          "box": {
+            "left": 112,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 30,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😁",
+          "box": {
+            "left": 204,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 31,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😌",
+          "box": {
+            "left": 296,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 32,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "👀",
+          "box": {
+            "left": 388,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 33,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😋",
+          "box": {
+            "left": 480,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 34,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😁",
+          "box": {
+            "left": 600,
+            "top": 1105,
+            "width": 64,
+            "height": 64
+          },
+          "index": 35,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "☺️",
+          "box": {
+            "left": 692,
+            "top": 1105,
+            "width": 58,
+            "height": 64
+          },
+          "index": 36,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "👌",
+          "box": {
+            "left": 20,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 37,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😩",
+          "box": {
+            "left": 112,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 38,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😳",
+          "box": {
+            "left": 204,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 39,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "💁",
+          "box": {
+            "left": 296,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 40,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😑",
+          "box": {
+            "left": 388,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 41,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "👏",
+          "box": {
+            "left": 480,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 42,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😆",
+          "box": {
+            "left": 600,
+            "top": 1182,
+            "width": 64,
+            "height": 64
+          },
+          "index": 43,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "😊",
+          "box": {
+            "left": 692,
+            "top": 1182,
+            "width": 58,
+            "height": 64
+          },
+          "index": 44,
+          "parentIndex": 2,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "button",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Next keyboard",
+          "box": {
+            "left": 0,
+            "top": 1254,
+            "width": 94,
+            "height": 80
+          },
+          "index": 45,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "key",
+          "id": null,
+          "accessibilityId": "delete",
+          "text": "delete",
+          "box": {
+            "left": 658,
+            "top": 1254,
+            "width": 92,
+            "height": 80
+          },
+          "index": 46,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 96,
+            "top": 1262,
+            "width": 558,
+            "height": 64
+          },
+          "index": 47,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Frequently Used category",
+          "box": {
+            "left": 104,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 48,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Smileys & People category",
+          "box": {
+            "left": 164,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 49,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Animals & Nature category",
+          "box": {
+            "left": 224,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 50,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Food & Drink category",
+          "box": {
+            "left": 284,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 51,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Activity category",
+          "box": {
+            "left": 344,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 52,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Travel & Places category",
+          "box": {
+            "left": 404,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 53,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Objects category",
+          "box": {
+            "left": 464,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 54,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Symbols category",
+          "box": {
+            "left": 524,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 55,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Flags category",
+          "box": {
+            "left": 584,
+            "top": 1272,
+            "width": 62,
+            "height": 38
+          },
+          "index": 56,
+          "parentIndex": 47,
+          "focused": false,
+          "editable": false
+        }
+      ]
+    },
+    {
+      "type": "window.status",
+      "box": {
+        "left": 0,
+        "top": 0,
+        "width": 750,
+        "height": 40
+      },
+      "nodes": [
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": null,
+          "box": {
+            "left": 0,
+            "top": 0,
+            "width": 750,
+            "height": 40
+          },
+          "index": 1,
+          "parentIndex": -1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "Carrier",
+          "box": {
+            "left": 13,
+            "top": 6,
+            "width": 78,
+            "height": 29
+          },
+          "index": 2,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": "3 of 3 Wi-Fi bars",
+          "text": null,
+          "box": {
+            "left": 99,
+            "top": 9,
+            "width": 31,
+            "height": 22
+          },
+          "index": 3,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "staticText",
+          "id": null,
+          "accessibilityId": null,
+          "text": "6:10 PM",
+          "box": {
+            "left": 327,
+            "top": 6,
+            "width": 96,
+            "height": 29
+          },
+          "index": 4,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        },
+        {
+          "type": "view",
+          "id": null,
+          "accessibilityId": null,
+          "text": "95% battery power",
+          "box": {
+            "left": 691,
+            "top": 8,
+            "width": 48,
+            "height": 23
+          },
+          "index": 5,
+          "parentIndex": 1,
+          "focused": false,
+          "editable": false
+        }
+      ]
+    }
+  ]
+}
