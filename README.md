@@ -5,7 +5,7 @@ match together the visual representation of a screen and its view hierarchy.
 
 ## Submit
 
-Please zip your work once it's complete and send it to developers@waldo.com.
+You should have received an upload link from us. Please zip your work once it's complete and upload it there.
 
 ## Input
 
@@ -40,3 +40,9 @@ And now, the representation if we tag 2 nodes as transparent:
 The goal of this challenge is to tag / reorder / prune nodes from the view hierarchy
 programmatically so that the representation of the nodes after processing is consistent with the
 visual representation.
+
+## Notes
+
+The way we currently solve for this is to detect elements as visible (meaning they "own" some
+pixels on the screen), and mark all elements that are declared AFTER in the view hierarchy to be
+considered "transparent".
